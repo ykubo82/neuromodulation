@@ -1,2 +1,0 @@
-# neuromodulation
-Neuromodulated Equilibrium Learning
