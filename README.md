@@ -226,12 +226,23 @@ NEL removes the reward-nudged phase and activation derivatives from the modulato
 
 **Neuromodulated Equilibrium Learning**
 
-Paper/preprint link will be added after public release.
+bioRxiv preprint:  
+https://www.biorxiv.org/content/10.64898/2026.08.28.747901v1
+
+DOI:  
+https://doi.org/10.64898/2026.08.28.747901
 
 ## Citation
 
-A BibTeX entry will be added after the paper is publicly available.
+If you use this work, please cite:
 
-## License
+```bibtex
+@article{kubo2026neuromodulated,
+  title={Neuromodulated Equilibrium Learning},
+  author={Kubo, Yoshimasa},
+  journal={bioRxiv},
+  year={2026},
+  doi={10.64898/2026.08.28.747901},
+  url={https://www.biorxiv.org/content/10.64898/2026.08.28.747901v1}
+}
 
-Please add the license appropriate for your intended release.
